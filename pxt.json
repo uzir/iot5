@@ -1,0 +1,22 @@
+{
+    "name": "IOT5",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "Obloq": "github:dfrobot/pxt-obloq#7d04ef78f9c52751884a60588f3ea0b6bf2a0c9e",
+        "Environment-and-Science-IoT": "github:tinkertanker/pxt-iot-environment-kit#v3.0.6"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
